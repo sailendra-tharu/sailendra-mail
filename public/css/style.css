@@ -72,3 +72,8 @@ h1 {
 .compose img {
   max-width: 25rem;
 }
+.heading-line1 , .heading-line2 , .heading-line3{
+  display: block;
+  margin-left: 1rem;
+}
+
